@@ -4,6 +4,7 @@
 - Maven (only if the program runs via `mvn`)
 
 # Running
+Provide proper configuration in application.properties file first.
 
 There are two ways to run the program: from the source code or using executable JAR
 
